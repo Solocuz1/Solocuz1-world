@@ -1,5 +1,5 @@
 # Solocuz1-world
-My repository
+
 Hello, everyone! I am Solomon Ekanem. But you can call me solocuz1.
 I am an English Language teacher. I can guide you through your studies,
 until you become a perfect and fluent English speaker.
